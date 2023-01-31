@@ -1,6 +1,9 @@
-<h1>Hello, World! 🪐</h1>
+<!-- <h1>Hello, World! 🪐</h1> -->
 
-<strong>I am Vadim, 23 years old.</strong>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!🪐) <br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+I+am+Vadim.)
+
+<!-- <strong>I am Vadim, 23 years old.</strong> -->
 
  <strong>Contacts<strong>🛰
 
