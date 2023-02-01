@@ -1,7 +1,4 @@
-<!-- <h1>Hello, World! 🪐</h1> -->
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+World!🪐) <br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+I+am+Vadim.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🌎Hello,+World!🌍) <br>
 
 <!-- ![Vadim's github activity graph](https://activity-graph.herokuapp.com/graph?username=v-mokrushin) -->
 
